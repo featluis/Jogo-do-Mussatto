@@ -16,4 +16,5 @@ Aqui, dois jogadores disputam para alcançar **50 pontos** primeiro — mas cuid
 ---
 ## 🛠️ Requisitos
 Python 3.x instalado
+
 Biblioteca padrão tkinter (já vem com Python)
